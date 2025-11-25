@@ -1,7 +1,7 @@
 import AddTask from "@/components/AddTask";
 import DateTimeFilter from "@/components/DateTimeFilter";
 import Footer from "@/components/Footer";
-import { Header } from "@/components/Header";
+import  Header  from "@/components/Header";
 import StatsAndFilters from "@/components/StatsAndFilters";
 import TaskList from "@/components/TaskList";
 import TaskListPagination from "@/components/TaskListPagination";
